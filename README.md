@@ -17,4 +17,5 @@ That's why I've made this Datapack, it allows Hostile Mobs to exist. They will n
 Datapacks are simple to install, simply [Download the Latest Release](https://github.com/SamL2020/neutral-hostiles/releases/latest) as a `.ZIP`. 
 
 Put it in your world folder (Under `saves/<world name>/datapacks`) and use the `/reload` command ingame!
+
 A message should pop up and you're ready to go!
