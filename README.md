@@ -50,7 +50,7 @@ All the affected hostile mobs are listed below
 - Vex
 - Vindicator
 - Witch
-- Wither_Skeleton
+- Wither Skeleton
 - Zoglin
 - Zombie
 - Zombie Villager
