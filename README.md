@@ -2,7 +2,7 @@
 A Datapack for Peaceful Minecraft Players who dislike monsters ruining their experience.
 
 ## Credits
-This Minecraft Datapack is created by Sam L. (SamL2020)
+This Minecraft Datapack is created by Sam L. (SamL2020#1767 on Discord)
 
 Some aspects of the datapack were generated with https://advancements.thedestruc7i0n.ca/
 
@@ -22,39 +22,7 @@ A message should pop up and you're ready to go!
 
 ## Affected Mobs
 All the affected hostile mobs are listed below
-<details>
-<summary>Click to open</summary> 
-  
-- Blaze
-- Creeper
-- Drowned
-- Elder Guardian
-- Endermite
-- Evoker
-- Ghast
-- Guardian
-- Hoglin
-- Husk
-- Magma Cube
-- Phantom
-- Piglin Brute
-- Pillager
-- Ravager
-- Shulker
-- Silverfish
-- Skeleton
-- Slime
-- Spider
-- Cave Spider
-- Stray
-- Vex
-- Vindicator
-- Witch
-- Wither Skeleton
-- Zoglin
-- Zombie
-- Zombie Villager
-</details>
+Blaze, Creeper, Drowned, Elder Guardian, Endermite, Evoker, Ghast, Guardian, Hoglin, Husk, Magma Cube, Phantom, Piglin Brute, Pillager, Ravager, Shulker, Silverfish, Skeleton, Slime, Spider, Cave Spider, Stray, Vex, Vindicator, Witch, Wither Skeleton, Zoglin, Zombie, Zombie Villager
 
 ## Having issues?
 
