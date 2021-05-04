@@ -21,7 +21,8 @@ Put it in your world folder (Under `saves/<world name>/datapacks`) and use the `
 A message should pop up and you're ready to go!
 
 ## Affected Mobs
-All the affected hostile mobs are listed below
+##### All the affected hostile mobs are listed below
+
 Blaze, Creeper, Drowned, Elder Guardian, Endermite, Evoker, Ghast, Guardian, Hoglin, Husk, Magma Cube, Phantom, Piglin Brute, Pillager, Ravager, Shulker, Silverfish, Skeleton, Slime, Spider, Cave Spider, Stray, Vex, Vindicator, Witch, Wither Skeleton, Zoglin, Zombie, Zombie Villager
 
 ## Having issues?
