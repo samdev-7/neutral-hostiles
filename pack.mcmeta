@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format": 6,
-        "description": "§7Makes Hostile Mobs Neutral\n§8https://github.com/SamL2020/neutral-hostiles"
+        "pack_format": 10,
+        "description": "§7Makes Hostile Mobs Neutral\n§8https://github.com/SamDev-7/neutral-hostiles"
     }
 }
