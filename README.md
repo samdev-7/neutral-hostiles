@@ -2,7 +2,7 @@
 A Datapack for Peaceful Minecraft Players who dislike monsters ruining their experience.
 
 ## Credits
-This Minecraft Datapack is created by Sam L. (SamL2020#1767 on Discord)
+This Minecraft Datapack is created by Sam L.
 
 Some aspects of the datapack were generated with https://advancements.thedestruc7i0n.ca/
 
